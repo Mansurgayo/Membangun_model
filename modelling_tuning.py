@@ -11,7 +11,7 @@ from skopt.space import Real, Integer
 
 # --- Konfigurasi MLflow dan DagsHub (Skor 4) ---
 # Ganti dengan nama user DagsHub dan nama repository Anda
-DAGSHUB_REPO_OWNER = "Mansur" 
+DAGSHUB_REPO_OWNER = "Mansurgayo" 
 DAGSHUB_REPO_NAME = "Membangun_model"
 MLFLOW_TRACKING_URI = f"https://dagshub.com/{DAGSHUB_REPO_OWNER}/{DAGSHUB_REPO_NAME}.mlflow"
 
