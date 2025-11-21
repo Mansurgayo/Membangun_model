@@ -1,5 +1,6 @@
+mlflow
+scikit-learn
 pandas
 numpy
-scikit-learn
-mlflow
+requests
 scikit-optimize
